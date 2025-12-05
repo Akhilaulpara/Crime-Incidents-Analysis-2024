@@ -68,3 +68,7 @@ This notebook covers:
 
 [🌍 View Interactive Crime Cluster Map](https://akhilaulpara.github.io/Crime-Incidents-Analysis-2024/crime_clusters_map.html)
 
+- GitHub does not run JavaScript or interactive HTML inside Jupyter notebooks, so Folium maps (which are rendered using HTML + JavaScript) cannot be displayed directly in the .ipynb preview.
+- Because of this limitation, the interactive map does not appear even if the notebook is trusted.
+- To ensure the map is still accessible, the Folium output is exported separately as an HTML file
+- This standalone file preserves the full interactivity of the map and can be opened directly in a browser or viewed through GitHub Pages.
