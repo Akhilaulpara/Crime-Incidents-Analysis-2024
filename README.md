@@ -63,3 +63,8 @@ This notebook covers:
 - Heatmaps of offense frequency  
 - Interactive Folium crime map  
 - DBSCAN cluster map  
+
+---
+
+<h3>🌍 View Interactive Crime Cluster Map</h3>
+(crime_clusters_map.html)
