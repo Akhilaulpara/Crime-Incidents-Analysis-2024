@@ -66,5 +66,5 @@ This notebook covers:
 
 ---
 
-<h3>🌍 View Interactive Crime Cluster Map</h3>
-(crime_clusters_map.html)
+[🌍 View Interactive Crime Cluster Map](crime_clusters_map.html)
+
