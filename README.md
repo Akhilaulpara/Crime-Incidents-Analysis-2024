@@ -66,5 +66,5 @@ This notebook covers:
 
 ---
 
-[🌍 View Interactive Crime Cluster Map](crime_clusters_map.html)
+[🌍 View Interactive Crime Cluster Map]([crime_clusters_map.html](https://akhilaulpara.github.io/Crime-Incidents-Analysis-2024/))
 
